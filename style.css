@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .headingDiv1
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    padding: 10px;
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  .copy_right_footer{
+
+font-size: 25px;
+bottom:0;
+position:fixed;
+text-align: center;
+background-color:rgb(110, 184, 110) ;
+color: white;
+width: 100%;
+
+  }
+
+canvas{
+
+background-color: white;
+margin-top: 160px;
+border: 2px solid black;
+
+  }
